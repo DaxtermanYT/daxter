@@ -1,21 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Daxter's Servers.
 
 You can use the [editor on GitHub](https://github.com/DaxtermanYT/websiteserver/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![Image](https://marckray.files.wordpress.com/2014/05/f-oxjqx4yejsj_7l7qmm_l-vllkcqgdwmwhtgalqrns-1.gif?w=538)
 
-### Markdown
+# First Header
+## Second Header
+### New Test
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+### Test
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+This is a good test.
 
-# Header 1
-## Header 2
-### Header 3
+# First Header
 
 - Bulleted
 - List
