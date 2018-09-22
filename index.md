@@ -1,8 +1,8 @@
-# Welcome to Daxter's Website <h6> teste
+# **Welcome to Daxter's Website** 
 ### This a Website is still in construction.
 
 
-
+In this website a lot of things will be here from artwork to game servers to actual important news realted to everything!! c:
 
 
 ![Image](https://marckray.files.wordpress.com/2014/05/f-oxjqx4yejsj_7l7qmm_l-vllkcqgdwmwhtgalqrns-1.gif?w=538)
@@ -19,6 +19,6 @@
 
 ## What Are We?
 
-   
+We are something
    
 **Bold** and _Italic_ and `Code` text
