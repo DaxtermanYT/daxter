@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/DaxtermanYT/websiteserver/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Image](https://marckray.files.wordpress.com/2014/05/f-oxjqx4yejsj_7l7qmm_l-vllkcqgdwmwhtgalqrns-1.gif?w=538)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,7 +27,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![Image](https://marckray.files.wordpress.com/2014/05/f-oxjqx4yejsj_7l7qmm_l-vllkcqgdwmwhtgalqrns-1.gif?w=538)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
